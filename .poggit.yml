@@ -1,5 +1,7 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Brentie2006/test-project
 branches:
 - master
-projects: []
+projects:
+test-project:
+path: test-project/
 ...
